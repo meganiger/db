@@ -1,0 +1,23 @@
+{
+  "character": {
+    "name": "Luke Skywalker",
+    "age": 23,
+    "homeworld": "Tatooine",
+    "species": "Human",
+    "photo": "https://example.com/luke_skywalker.jpg",
+    "skills": [
+      {
+        "name": "Lightsaber Combat",
+        "level": "Expert"
+      },
+      {
+        "name": "Force Push",
+        "level": "Advanced"
+      },
+      {
+        "name": "Piloting",
+        "level": "Expert"
+      }
+    ]
+  }
+}
