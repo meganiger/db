@@ -1,32 +1,74 @@
 [
     {
-        "name": "Люк Скайуокер",
-        "photo": "https://raw.githubusercontent.com/meganiger/db/a67cede0c6538a090e8d7e8a8eda16d1be33a63c/luke_skywalker.jpg",
-        "description": "Легендарный Рыцарь-Джедай, который сыграл ключевую роль в победе над Галактической Империей.",
-        "side":"Светлая сторона"
-    },
-    {
-        "name": "Лея Органа",
-        "photo": "https://example.com/leia.jpg",
-        "description": "Сильный лидер Альянса Повстанцев и искусный дипломат, Лея также обладает мощной силой.",
-        "side":"Светлая сторона"
-    },
-    {
-        "name": "Обиван Кеноби",
-        "photo": "https://example.com/obiwan.jpg",
-        "description": "Мудрый и могущественный Мастер-Джедай, который обучал Энакина Скайуокера и позже Люка Скайуокера.",
-        "side":"Светлая сторона"
-    },
-    {
-        "name": "Йода",
-        "photo": "https://example.com/yoda.jpg",
-        "description": "Легендарный Мастер-Джедай, известный своей мудростью и мощной связью с Силой.",
-        "side":"Светлая сторона"
+        "name": "Дроид BB-9E",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/droidBB9e.jpg",
+        "description": "BB-9E — дроид-разведчик, использующийся Первым орденом.",
+        "side": "Тёмная сторона"
     },
     {
         "name": "Энакин Скайуокер",
-        "photo": "https://example.com/anakin.jpg",
-        "description": "Одаренный Рыцарь-Джедай, который трагически пал на тёмную сторону, став Дартом Вейдером.",
-        "side":"Светлая сторона"
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/enakin_skywalker.jpg",
+        "description": "Одаренный Рыцарь-Джедай, который трагически пал на темную сторону, став Дартом Вейдером.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Обиван Кеноби",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/obi_van_kenobi.jpg",
+        "description": "Мудрый и опытный Мастер-Джедай, наставник Энакина и Люка Скайуокера.",
+        "side": "Светлая сторона"
+    },
+    {
+        "name": "Граф Дуку",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/graf_duku.jpg",
+        "description": "Тёмный Лорд Ситхов и лидер Конфедерации независимых систем.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Генерал Гривус",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/general_grivus.jpg",
+        "description": "Кибернетический командир армии дроидов, служащий Графу Дуку.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Чубакка",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/chubakka.jpg",
+        "description": "Верный друг Хана Соло и легендарный воин из народа вуки.",
+        "side": "Светлая сторона"
+    },
+    {
+        "name": "Босск",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/bossk.jpg",
+        "description": "Наемник и охотник за головами, известный своей жестокостью.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Дарт Вейдер",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/dart_wader.jpg",
+        "description": "Один из самых известных злодеев во вселенной Звёздных Войн, бывший Энакин Скайуокер.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Дарт Молл",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/dart_moll.jpg",
+        "description": "Тёмный Лорд Ситхов, известный своим двойным световым мечом и устрашающим внешним видом.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Йода",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/yoda.jpg",
+        "description": "Легендарный Мастер-Джедай, известный своей мудростью и мощной связью с Силой.",
+        "side": "Светлая сторона"
+    },
+    {
+        "name": "Кайло Рен",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/kailo_ren.jpg",
+        "description": "Сын Хана Соло и Леи Органа, стремящийся следовать в footsteps Дарт Вейдера.",
+        "side": "Тёмная сторона"
+    },
+    {
+        "name": "Боба Фетт",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/refs/heads/main/bobafet.jpg",
+        "description": "Знаменитый охотник за головами, известный своей доспехами и безжалостностью.",
+        "side": "Тёмная сторона"
     }
 ]
