@@ -4,7 +4,7 @@
         "age": 23,
         "homeworld": "Tatooine",
         "species": "Human",
-        "photo": "https://github.com/meganiger/db/blob/a67cede0c6538a090e8d7e8a8eda16d1be33a63c/luke_skywalker.jpg?raw=true",
+        "photo": "https://raw.githubusercontent.com/meganiger/db/a67cede0c6538a090e8d7e8a8eda16d1be33a63c/luke_skywalker.jpg",
         "skills": [
             {
                 "name": "Lightsaber Combat",
