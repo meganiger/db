@@ -1,40 +1,27 @@
 [
     {
-        "name": "Luke Skywalker",
-        "age": 23,
-        "homeworld": "Tatooine",
-        "species": "Human",
+        "name": "Люк Скайуокер",
         "photo": "https://raw.githubusercontent.com/meganiger/db/a67cede0c6538a090e8d7e8a8eda16d1be33a63c/luke_skywalker.jpg",
-        "skills": [
-            {
-                "name": "Lightsaber Combat",
-                "level": "Expert"
-            },
-            {
-                "name": "Force Push",
-                "level": "Advanced"
-            },
-            {
-                "name": "Piloting",
-                "level": "Expert"
-            }
-        ]
+        "description": "Легендарный Рыцарь-Джедай, который сыграл ключевую роль в победе над Галактической Империей."
     },
     {
-        "name": "Darth Vader",
-        "age": 45,
-        "homeworld": "Tatooine",
-        "species": "Human",
-        "photo": "https://example.com/darth_vader.jpg",
-        "skills": [
-            {
-                "name": "Force Choke",
-                "level": "Expert"
-            },
-            {
-                "name": "Lightsaber Combat",
-                "level": "Master"
-            }
-        ]
+        "name": "Лея Органа",
+        "photo": "https://example.com/leia.jpg",
+        "description": "Сильный лидер Альянса Повстанцев и искусный дипломат, Лея также обладает мощной силой."
+    },
+    {
+        "name": "Обиван Кеноби",
+        "photo": "https://example.com/obiwan.jpg",
+        "description": "Мудрый и могущественный Мастер-Джедай, который обучал Энакина Скайуокера и позже Люка Скайуокера."
+    },
+    {
+        "name": "Йода",
+        "photo": "https://example.com/yoda.jpg",
+        "description": "Легендарный Мастер-Джедай, известный своей мудростью и мощной связью с Силой."
+    },
+    {
+        "name": "Энакин Скайуокер",
+        "photo": "https://example.com/anakin.jpg",
+        "description": "Одаренный Рыцарь-Джедай, который трагически пал на тёмную сторону, став Дартом Вейдером."
     }
 ]
